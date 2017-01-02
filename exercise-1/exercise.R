@@ -1,4 +1,6 @@
 # Exercise-1: practice with basic syntax
+# Two ways to assign variables <- and =. both are used in this exercise
+
 
 # Create a variable `hometown` that stores the city in which you were born
  hometown = "Ahmedabad"
